@@ -1,4 +1,4 @@
-# Slashboard desktop client
+# Monitoring desktop client
 
 <img src="https://raw.githubusercontent.com/BSoDium/Slashboard-desktop/electron/react/assets/icon.png" alt="Logo" width="100" align="left" />
 
