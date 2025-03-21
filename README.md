@@ -1,6 +1,6 @@
 # Monitoring desktop client
 
-<img src="https://raw.githubusercontent.com/BSoDium/Slashboard-desktop/electron/react/assets/icon.png" alt="Logo" width="100" align="left" />
+<img src="https://raw.githubusercontent.com/dzrootstack/monitoring-desktop-client/electron/react/assets/icon.png" alt="Logo" width="100" align="left" />
 
 A simple and convenient way to monitor the activity and performance of your servers. Probably more ergonomic than your average terminal htop.
 
@@ -12,21 +12,21 @@ A simple and convenient way to monitor the activity and performance of your serv
 
 ### Server list
 
-![ServerList](https://raw.githubusercontent.com/BSoDium/Slashboard-desktop/main/assets/screenshots/ServerList.png)
+![ServerList](https://raw.githubusercontent.com/dzrootstack/monitoring-desktop-client/main/assets/screenshots/ServerList.png)
 
 ### Dashboard
 
-![Dashboard_upper](https://raw.githubusercontent.com/BSoDium/Slashboard-desktop/main/assets/screenshots/Dashboard_upper.png)
+![Dashboard_upper](https://raw.githubusercontent.com/dzrootstack/monitoring-desktop-client/main/assets/screenshots/Dashboard_upper.png)
 
-![Dashboard_lower](https://raw.githubusercontent.com/BSoDium/Slashboard-desktop/main/assets/screenshots/Dashboard_lower.png)
+![Dashboard_lower](https://raw.githubusercontent.com/dzrootstack/monitoring-desktop-client/main/assets/screenshots/Dashboard_lower.png)
 
 ## Installation
 
-- Download the [latest release](https://github.com/BSoDium/Slashboard-desktop/releases/latest) of the desktop client for your OS
+- Download the app of the desktop client for your OS
 
-- Install [Slashboard-Pulsar](https://github.com/BSoDium/Slashboard-pulsar) on your server, a lightweight node js server which will be used to retrieve the data and display it on the dashboard.
+- Install the app on your server, a lightweight node js server which will be used to retrieve the data and display it on the dashboard.
 
-Once set up, you will probably need to forward a port in order to make your server accessible from anywhere on the internet. See [Pulsar's documentation](https://github.com/BSoDium/Slashboard-pulsar#readme) for more info.
+Once set up, you will probably need to forward a port in order to make your server accessible from anywhere on the internet. 
 
 ## Usage
 
