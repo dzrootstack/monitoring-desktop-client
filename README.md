@@ -1,7 +1,5 @@
 # Monitoring desktop client
 
-<img src="https://raw.githubusercontent.com/dzrootstack/monitoring-desktop-client/electron/react/assets/icon.png" alt="Logo" width="100" align="left" />
-
 A simple and convenient way to monitor the activity and performance of your servers. Probably more ergonomic than your average terminal htop.
 
 > Built using Electron and React.
