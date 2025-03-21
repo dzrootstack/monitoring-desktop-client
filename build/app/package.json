@@ -1,13 +1,13 @@
 {
-  "name": "slashboard",
-  "productName": "Slashboard",
+  "name": "monitoringdashboard",
+  "productName": "MonitoringDashboard",
   "version": "1.2.0",
   "description": "Electron app to monitor personal server statuses in real time",
   "main": "./dist/main/main.js",
   "author": {
-    "name": "BSoDium",
+    "name": "dzrootstack",
     "email": "negreljerzy.philippe@gmail.com",
-    "url": "https://github.com/BSoDium/Slashboard"
+    "url": "https://github.com/dzrootstack/monitoring-desktop-client"
   },
   "scripts": {
     "electron-rebuild": "node -r ../../.erb/scripts/babel-register.js ../../.erb/scripts/electron-rebuild.js",

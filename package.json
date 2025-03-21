@@ -82,22 +82,14 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "BSoDium",
-      "repo": "Slashboard-desktop"
+      "owner": "dzrootstack",
+      "repo": "monitoring-desktop-client"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BSoDium/Slashboard-desktop.git"
-  },
   "author": {
-    "name": "BSoDium",
-    "email": "negreljerzy.philippe@gmail.com",
-    "url": "https://github.com/BSoDium"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BSoDium/Slashboard-desktop/issues"
+    "name": "dzrootstack",
+    "email": "dzrootstack@outlook.com",
+    "url": "https://github.com/dzrootstack"
   },
   "keywords": [
     "electron",
@@ -106,7 +98,7 @@
     "dashboard",
     "server"
   ],
-  "homepage": "https://github.com/BSoDium/Slashboard-desktop#readme",
+  "homepage": "https://github.com/dzrootstack/monitoring-desktop-client#readme",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
